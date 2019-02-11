@@ -1,0 +1,157 @@
+
+concert-this The Head and the Heart
+--------------------
+
+Venue: Belly Up
+
+City: Aspen
+
+Date: 03/16/2019
+
+--------------------
+concert-this The Head and the Heart
+--------------------
+
+Venue: Park City Live
+
+City: Park City
+
+Date: 03/14/2019
+
+--------------------
+concert-this The Head and the Heart
+--------------------
+
+Venue: Belly Up
+
+City: Aspen
+
+Date: 03/15/2019
+
+--------------------
+concert-this The Head and the Heart
+--------------------
+
+Venue: Fairgrounds New Orleans
+
+City: New Orleans
+
+Date: 04/26/2019
+
+--------------------
+concert-this The Head and the Heart
+--------------------
+
+Venue: City Park
+
+City: New Orleans
+
+Date: 04/25/2019
+
+--------------------
+concert-this The Head and the Heart
+--------------------
+
+Venue: Red Rocks Amphitheatre
+
+City: Morrison
+
+Date: 07/17/2019
+
+--------------------
+concert-this The Head and the Heart
+--------------------
+
+Venue: Red Rocks Amphitheatre
+
+City: Morrison
+
+Date: 07/18/2019
+
+--------------------
+movie-this Crazy Rich Asians
+--------------------
+
+Title: Crazy Rich Asians
+
+Year: 2018
+
+IMDB Rating: 7.0
+
+Rotten Tomatoes Rating: 91%
+
+Country Produced: USA
+
+Language: English, Mandarin, Cantonese, Hokkien, French
+
+Plot: This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.
+
+Actors: Constance Wu, Henry Golding, Michelle Yeoh, Gemma Chan
+
+--------------------
+spotify-this-song Ring of Fire
+--------------------
+
+Artist(s): Johnny Cash
+
+Song Title: Ring of Fire
+
+Preview Link: https://p.scdn.co/mp3-preview/e3bbba328a3227e0d1095f804cd73a634de8cd04?cid=fb31c7def0ea4a46b44bfc82ffc5a7d5
+
+Album: Ring Of Fire: The Best Of Johnny Cash
+
+--------------------
+spotify-this-song "I Want it That Way"
+--------------------
+
+Artist(s): Backstreet Boys
+
+Song Title: I Want It That Way
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=fb31c7def0ea4a46b44bfc82ffc5a7d5
+
+Album: The Hits--Chapter One
+
+--------------------
+concert-this Fall Out Boy
+--------------------
+
+Venue: Bunbury Festival (May 31st-June 2nd, Single Day TBA)
+
+City: Cincinnati
+
+Date: 05/31/2019
+
+--------------------
+movie-this Mr Nobody
+--------------------
+
+Title: Mr. Nobody
+
+Year: 2009
+
+IMDB Rating: 7.8
+
+Rotten Tomatoes Rating: 67%
+
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+--------------------
+spotify-this-song 
+--------------------
+
+Artist(s): Ace of Base
+
+Song Title: The Sign
+
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=fb31c7def0ea4a46b44bfc82ffc5a7d5
+
+Album: The Sign (US Album) [Remastered]
+
+--------------------
